@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'About Me', url: ''}
+- {name: 'About You', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 
