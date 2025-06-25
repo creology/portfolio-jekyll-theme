@@ -3,7 +3,7 @@ layout: page
 title: Neil's Portfolio Website
 ---
 
-<p>I am a highly motivated and socially conscious software developer with over two decades of hands-on experience across a diverse range of industries, businesses, and technologies.</p>
+<p>I am a highly motivated and socially conscious software developer in the South West of the UK, with over two decades of hands-on experience across a diverse range of industries, businesses, and technologies.</p>
 
 <p>Throughout my career as a freelance developer, I have successfully delivered innovative software solutions to over 75 clients - from small startups to long established medium sized companies - always focused on understanding the unique needs of each client and providing custom solutions to drive their ideas forward.</p>
 
