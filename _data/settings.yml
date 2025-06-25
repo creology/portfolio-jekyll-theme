@@ -3,6 +3,7 @@
 
 menu:
 - {name: 'About You', url: ''}
+- {name: 'Example Notebook',     url: 'example-notebook'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Contact',  url: 'contact'}
 
