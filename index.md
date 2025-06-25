@@ -3,9 +3,9 @@ layout: page
 title: Neil's Portfolio Website
 ---
 
-I am a highly motivated and socially conscious software developer <strong><u>in the South West of the UK</u></strong>, with over two decades of hands-on experience across a diverse range of industries, businesses, and technologies.
+<p>I am a highly motivated and socially conscious software developer <strong><u>in the South West of the UK</u></strong>, with over two decades of hands-on experience across a diverse range of industries, businesses, and technologies.</p>
 
-<p>NEWThroughout my career as a <strong><u>freelance software developer</u></strong>, I have successfully delivered innovative software solutions to over 75 clients, from small startups to long established medium sized companies, always focused on understanding the unique needs of each client and providing custom solutions to drive their ideas forward.</p>
+<p>Throughout my career as a <strong><u>freelance software developer</u></strong>, I have successfully delivered innovative software solutions to over 75 clients, from small startups to long established medium sized companies, always focused on understanding the unique needs of each client and providing custom solutions to drive their ideas forward.</p>
 
 <p>My journey began with an entry-level role at my local water company after leaving school, which transitioned into a freelance partnership as I pursued my university studies at <strong><u>Gloucestershire University achieving an MSc in Business Information Technology and Business Computer Systems</u></strong>. Since then, I have continually honed my skills and adapted to the constantly evolving tech landscape, working with clients across a number of sectors and often balancing concurrent projects. My commitment to proactive learning and adapting to new technologies has allowed me to remain at the forefront of the industry, especially with the rise of e-commerce and API integration.</p>
 
